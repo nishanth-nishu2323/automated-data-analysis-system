@@ -1,0 +1,23 @@
+2026-03-02 17:32:55,506 - INFO - User created: nishh@email.com
+2026-03-02 17:32:55,531 - INFO - Order created for user 1
+2026-03-02 17:32:55,557 - INFO - Sales report generated
+2026-03-02 19:22:37,962 - ERROR - 1062 (23000): Duplicate entry 'nishh@email.com' for key 'users.email'
+2026-03-02 19:22:37,986 - INFO - Order created for user 1
+2026-03-02 19:22:38,001 - INFO - Sales report generated
+2026-03-02 19:24:26,231 - ERROR - 1062 (23000): Duplicate entry 'nishh@email.com' for key 'users.email'
+2026-03-02 19:24:26,255 - INFO - Order created for user 1
+2026-03-02 19:24:26,267 - INFO - Sales report generated
+2026-03-02 20:12:45,485 - INFO - User created: nishh@email.com
+2026-03-02 20:12:45,508 - INFO - Order created for user 1
+2026-03-02 20:13:41,171 - ERROR - 1062 (23000): Duplicate entry 'nishh@email.com' for key 'users.email'
+2026-03-02 20:13:41,192 - INFO - Order created for user 1
+2026-03-02 20:16:39,535 - ERROR - 1062 (23000): Duplicate entry 'nishh@email.com' for key 'users.email'
+2026-03-02 20:16:39,562 - INFO - Order created for user 1
+2026-03-02 20:18:03,605 - ERROR - 1062 (23000): Duplicate entry 'nishh@email.com' for key 'users.email'
+2026-03-02 20:18:03,631 - INFO - Order created for user 1
+2026-03-02 20:20:19,620 - ERROR - 1062 (23000): Duplicate entry 'nishh@email.com' for key 'users.email'
+2026-03-02 20:20:19,641 - INFO - Order created for user 1
+2026-03-02 20:22:16,013 - ERROR - 1062 (23000): Duplicate entry 'nishh@email.com' for key 'users.email'
+2026-03-02 20:22:16,036 - INFO - Order created for user 1
+2026-03-02 20:23:19,488 - ERROR - 1062 (23000): Duplicate entry 'nishh@email.com' for key 'users.email'
+2026-03-02 20:23:19,510 - INFO - Order created for user 1
