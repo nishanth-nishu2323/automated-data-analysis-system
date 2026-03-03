@@ -21,3 +21,38 @@
 2026-03-02 20:22:16,036 - INFO - Order created for user 1
 2026-03-02 20:23:19,488 - ERROR - 1062 (23000): Duplicate entry 'nishh@email.com' for key 'users.email'
 2026-03-02 20:23:19,510 - INFO - Order created for user 1
+2026-03-03 17:15:10,451 - INFO - package: mysql.connector.plugins
+2026-03-03 17:15:10,451 - INFO - plugin_name: caching_sha2_password
+2026-03-03 17:15:10,452 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-03-03 17:15:10,489 - INFO - User created: nishanthnishu893@gmail.com
+2026-03-03 17:15:10,584 - INFO - Order created for user 1
+2026-03-03 17:19:38,047 - INFO - package: mysql.connector.plugins
+2026-03-03 17:19:38,047 - INFO - plugin_name: caching_sha2_password
+2026-03-03 17:19:38,047 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-03-03 17:19:38,057 - ERROR - 1062 (23000): Duplicate entry 'nishanthnishu893@gmail.com' for key 'users.email'
+2026-03-03 17:19:38,151 - INFO - Order created for user 1
+2026-03-03 17:21:12,890 - INFO - package: mysql.connector.plugins
+2026-03-03 17:21:12,891 - INFO - plugin_name: caching_sha2_password
+2026-03-03 17:21:12,891 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-03-03 17:21:12,901 - ERROR - 1062 (23000): Duplicate entry 'nishanthnishu893@gmail.com' for key 'users.email'
+2026-03-03 17:21:12,995 - INFO - Order created for user 1
+2026-03-03 17:21:40,860 - INFO - package: mysql.connector.plugins
+2026-03-03 17:21:40,860 - INFO - plugin_name: caching_sha2_password
+2026-03-03 17:21:40,860 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-03-03 17:21:40,869 - ERROR - 1062 (23000): Duplicate entry 'nishanthnishu893@gmail.com' for key 'users.email'
+2026-03-03 17:21:40,957 - INFO - Order created for user 1
+2026-03-03 17:27:02,826 - INFO - package: mysql.connector.plugins
+2026-03-03 17:27:02,826 - INFO - plugin_name: caching_sha2_password
+2026-03-03 17:27:02,826 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-03-03 17:27:02,834 - ERROR - 1062 (23000): Duplicate entry 'nishanthnishu893@gmail.com' for key 'users.email'
+2026-03-03 17:27:03,054 - INFO - Order created for user 1
+2026-03-03 17:30:38,305 - INFO - package: mysql.connector.plugins
+2026-03-03 17:30:38,305 - INFO - plugin_name: caching_sha2_password
+2026-03-03 17:30:38,306 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-03-03 17:30:38,314 - ERROR - 1062 (23000): Duplicate entry 'nishanthnishu893@gmail.com' for key 'users.email'
+2026-03-03 17:30:38,403 - INFO - Order created for user 1
+2026-03-03 17:32:45,471 - INFO - package: mysql.connector.plugins
+2026-03-03 17:32:45,471 - INFO - plugin_name: caching_sha2_password
+2026-03-03 17:32:45,471 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-03-03 17:32:45,481 - ERROR - 1062 (23000): Duplicate entry 'nishanthnishu893@gmail.com' for key 'users.email'
+2026-03-03 17:32:45,571 - INFO - Order created for user 1
